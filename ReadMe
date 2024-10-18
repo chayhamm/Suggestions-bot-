@@ -1,0 +1,5 @@
+The discord suggestions bot allows members to submit a suggestion, and it to be read by staff. 
+They have to run the /suggestion command to submit their suggestion - else they can write a suggestion and have less of a chance of it being seen by staff. 
+
+The suggestion currently gets sent to the 'incoming suggestions' channel where a staff member can click either Accept or Deny button.
+If the button is Accept, it gets sent to the 'Suggestions' channel for others to see and like or not.
