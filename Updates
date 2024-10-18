@@ -1,0 +1,6 @@
+18/10/24
+
+21:45
+
+- Made the bot add a Tick and a Cross onto the suggestion message.
+- When a suggestion is accepted, I have changed the message that gets sent to the user.
