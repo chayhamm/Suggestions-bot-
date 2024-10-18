@@ -4,3 +4,8 @@
 
 - Made the bot add a Tick and a Cross onto the suggestion message.
 - When a suggestion is accepted, I have changed the message that gets sent to the user.
+
+22:23
+
+- Added a 'Staff Reply' button which brings up a modal to add a staff reply onto the embed that has been sent to the suggestions tab.
+- Need to add some fixes/updates to it tommorrow!
