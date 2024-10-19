@@ -9,3 +9,10 @@
 
 - Added a 'Staff Reply' button which brings up a modal to add a staff reply onto the embed that has been sent to the suggestions tab.
 - Need to add some fixes/updates to it tommorrow!
+
+19/10/24
+
+21:25
+
+- Made all 3 buttons disable when one of them is pressed.
+- Still stuck on adding the staff reply onto the suggestion that is getting sent.
